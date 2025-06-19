@@ -8,12 +8,12 @@ Hola, Soy Kevin Madrid!
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Me gusta el mundo de la programación y ver el proceso en un trabajo.\
-🎓 &nbsp;Estudie ingeniería en Informática en la universidad Bernardo O´higgins.\
+💡 &nbsp;Mi interés en la programación radica en el continuo aprendizaje y la construcción de proyectos.\
+🎓 &nbsp;Estudie ingeniería en Informática en la Universidad Bernardo O'higgins.\
 🌱 &nbsp;Estoy aprendiendo por cuenta propia sobre progrmación web para ser full stack.\
 ✍️ &nbsp;En mi tiempo libre me gusta ver actualizaciones o noticias sobre el mundo informático.\
 ✉️ &nbsp;Puedes enviarme un correo electrónico a <a href="mailto:kevin.mb1881@gmail.com"><img src="https://img.shields.io/badge/-kevin.mb1881@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.\
-📄 &nbsp;Revisa mi CV si lo necesitas"" y no dudes en contactarme.
+📄 &nbsp;Revisa mi [CV si lo necesitas](https://github.com/Keeviin-M/Keeviin-M/raw/main/KevinM_CV.pdf) y no dudes en contactarme.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
