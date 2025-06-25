@@ -31,6 +31,14 @@ Hola, Soy Kevin Madrid!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
+### Revisa algunos de los Proyectos realizados
+Estos los realice durante un curso de programación \
+https://vue-calculadora-proyecto.netlify.app \
+https://proyecto-react2025.netlify.app \
+https://peaceful-hummingbird-722bbf.netlify.app \
+https://gastosemanal-proyecto.netlify.app \
+https://agenciaviajesnode-p3r3.onrender.com
+
 ### Bases de Datos
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=sql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
